@@ -12,6 +12,7 @@ public class BookTest {
         System.out.println(title +"\t" + price+"\t"+ company+"\t"+author+"\t"+page+"\t"+isbn+"\t" );
 
         // 책 한 권을 저장할 변수를 선언하시오.
+        Book b;  // 자료형(Book)을 만들어놓았기 때문에 에러가 나지 않고 사용할 수 있게 되었다.
 
     }
 }
