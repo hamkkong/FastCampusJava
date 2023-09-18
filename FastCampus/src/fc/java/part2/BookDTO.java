@@ -1,0 +1,10 @@
+package fc.java.part2; // package 선언문
+// fc.java.part2.BookDTO  // 클래스의 풀네임
+public class BookDTO {
+    public String title;
+    public int price;
+    public String company;
+    public String author;
+    public int page;
+    public String isbn;
+}
